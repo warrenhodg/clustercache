@@ -19,3 +19,4 @@ There are many cache implementations, but none that exactly fit my need:
 11. It must be possible to access random portions of values, as opposed to having to read the entire file.
 12. It must be possible to stream read and write values.
 13. It must be possible to encrypt communication.
+14. Clients should be able to establish persistent connections to the server.
